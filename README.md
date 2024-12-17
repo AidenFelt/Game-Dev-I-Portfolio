@@ -32,5 +32,7 @@ Personal Role: I did a portion of art design and a little bit of the actual code
  
  ![Longbow In Shop](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/longbowcard.png)
 
+ ###Personal Project: Shape Game
+
 ## Projects for Term 2
 
