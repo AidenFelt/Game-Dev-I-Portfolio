@@ -14,7 +14,7 @@ Personal Role: I did a portion of art design and a little bit of the actual code
 
  Main gameplay: 
 
- 
+ ![Goblin Survivor Gameplay](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/GoblinSurvivorGamplaySceeny.png)
 
  Personal Contibutions:
  
