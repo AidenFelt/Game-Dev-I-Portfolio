@@ -5,14 +5,18 @@ Student at Skyline High School.
 ## Certifications
 [Game Dev Fundementals Certification](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/Aiden%20Felt_Game%20Development%20Fundamentals.pdf)
 ## Projects for Term 1
-### Group Project: Goblin Survivor 
+### Group Project: Goblin Survivor
+Personal Role: I did a portion of art design and a little bit of the actual code.
+
  Description:
  
  A pixelated reverse bullet hell where you are a goblin fighting through an infinite dugeon to gain points and money.
  
  [Link to Goblin Survivor Repo](https://github.com/Masterpaul562/gamedevteam3)
 
+ Main gameplay:
  
- 
+
+
 ## Projects for Term 2
 
