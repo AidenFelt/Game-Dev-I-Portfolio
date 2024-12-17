@@ -17,7 +17,7 @@ Personal Role: I did a portion of art design and a little bit of the actual code
  ![Goblin Survivor Gameplay](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/GoblinSurvivorGamplaySceeny.png)
 
  Personal Contibutions:
- !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/FirstIntoPage.png)
+ ! [](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/FirstIntoPage.png)
  !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/SecondIntoPage.png)
  !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/Bananaproj.png)
  !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/BowCard.png)
