@@ -8,13 +8,13 @@ Student at Skyline High School.
 ### Group Project: Goblin Survivor
 Personal Role: I did a portion of art design and a little bit of the actual code.
 
- Description:
- 
- A pixelated reverse bullet hell where you are a goblin fighting through an infinite dugeon to gain points and money.
+ Description: A pixelated reverse bullet hell where you are a goblin fighting through an infinite dugeon to gain points and money.
  
  [Link to Goblin Survivor Repo](https://github.com/Masterpaul562/gamedevteam3)
 
- Main gameplay:
+ Main gameplay: 
+
+ 
 
  Personal Contibutions:
  
