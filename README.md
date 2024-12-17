@@ -1,6 +1,6 @@
 # Aiden Felt Game Dev Portfolio 2024-25
 Student at Skyline High School.
-[My Emial](mailto:aiden.m.felt@gmail.com)
+[My Email](mailto:aiden.m.felt@gmail.com)
 *Talented in story writing
 *Intrested in  RtS games
 *Intrested in Experimentaion
