@@ -17,13 +17,13 @@ Personal Role: I did a portion of art design and a little bit of the actual code
  ![Goblin Survivor Gameplay](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/GoblinSurvivorGamplaySceeny.png)
 
  Personal Contibutions:
- ![Intro](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/FirstIntoPage.png)
- ![Intro Part Two](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/SecondIntoPage.png)
- ![In Store Banana Card](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/Bananaproj.png)
- ![A Bow In Store Card](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/BowCard.png)
- ![In Store Hammer Card](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/hammercard2.png)
- ![In Store Sword Card](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/swordcard.png)
- ![In Store Long Bow Card](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/longbowcard.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/FirstIntoPage.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/SecondIntoPage.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/Bananaproj.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/BowCard.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/hammercard2.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/swordcard.png)
+ !(https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/longbowcard.png)
 
 ## Projects for Term 2
 
