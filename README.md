@@ -15,6 +15,8 @@ Personal Role: I did a portion of art design and a little bit of the actual code
  [Link to Goblin Survivor Repo](https://github.com/Masterpaul562/gamedevteam3)
 
  Main gameplay:
+
+ Personal Contibutions:
  
 
 
