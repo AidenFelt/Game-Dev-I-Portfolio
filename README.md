@@ -8,7 +8,7 @@ Student at Skyline High School.
 *Intrested in pixel art
 
 ## Certifications
-[Game Dev Fundementals Certification]()
+[Game Dev Fundementals Certification](https://github.com/AidenFelt/Game-Dev-I-Portfolio/blob/main/docs/Aiden%20Felt_Game%20Development%20Fundamentals.pdf)
 ## Projects for Term 1
 
 ## Projects for Term 2
