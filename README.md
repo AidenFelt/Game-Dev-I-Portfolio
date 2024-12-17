@@ -34,5 +34,7 @@ Personal Role: I did a portion of art design and a little bit of the actual code
 
  ### Personal Project: Shape Game
 
+
+
 ## Projects for Term 2
 
