@@ -7,8 +7,12 @@ Student at Skyline High School.
 ## Projects for Term 1
 ### Group Project: Goblin Survivor 
  Description:
- A pixelated reverse bullet hell where you are a goblin fighting through an infinite dugeon to gain points and money.
+ 
+ [A pixelated reverse bullet hell where you are a goblin fighting through an infinite dugeon to gain points and money.]
+ 
  [Link to Goblin Survivor Repo](https://github.com/Masterpaul562/gamedevteam3)
+
+ 
  
 ## Projects for Term 2
 
